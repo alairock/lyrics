@@ -1,13 +1,13 @@
 # Lyrics
 Get an alert of the song you are currently playing (specifically
-scrobbling to last.fm)
+scrobbling to last.fm) MacOS Only! 
 
 Show the name, artist, album and lyrics of currently playing track
 printed in your console where this is running
 
 
 ## Prereqs.
-This was written for Python 3.5. Mileage may vary in other versions 
+This was written for Python 3.5. Mileage may vary in other versions. MacOS required. Will not work with Linux or Windows. 
 
 This uses the following modules:
  - pyobjc-core

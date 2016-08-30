@@ -16,10 +16,10 @@ This uses the following modules:
 
 ## Installation and Usage
 A binary will be provided someday, but for now: 
-1 - `$ git clone git@github.com:alairock/lyrics.git`
-2 - `$ cp runner.sh.example runner.sh`
-3 - Modify the `runner.sh` file, change vars to your specific values
-4 - `$ ./runner.sh`
+- 1 `$ git clone git@github.com:alairock/lyrics.git`
+- 2 `$ cp runner.sh.example runner.sh`
+- 3 Modify the `runner.sh` file, change vars to your specific values
+- 4 `$ ./runner.sh`
 
 
 ## Limitations
